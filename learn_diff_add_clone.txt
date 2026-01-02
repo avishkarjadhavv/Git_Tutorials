@@ -1,0 +1,1 @@
+Combining concepts of git diff and git clone .
